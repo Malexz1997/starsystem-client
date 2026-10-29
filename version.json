@@ -1,5 +1,10 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/Malexz1997/starsystem-client/releases/download/v0.1.1/StarSystem-Client-v0.1.1.pkg",
-  "sha256": "a6879523984833d816ec0e5e2cb4204263f5cf46eeaa6a773870168610f94708"
+  "version": "0.2.0",
+  "url": "https://github.com/Malexz1997/starsystem-client/releases/download/v0.2.0/StarSystem.apk",
+  "sha256": "8e1ff324625109947bb0aad58d02d73da9c43370f6ceb616717155855616ef22",
+  "buildNumber": 1,
+  "minBuildNumber": 0,
+  "protocol": 1,
+  "content": 1,
+  "notes": "v0.2 - lean project, reorganized scripts, Android ARM64 IL2CPP"
 }
